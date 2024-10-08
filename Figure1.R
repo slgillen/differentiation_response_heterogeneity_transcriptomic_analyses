@@ -1,10 +1,10 @@
+# load libraries -----------------------------------------------------------
+
 library(data.table)
 library(Seurat)
 library(ggplot2)
 library(dplyr)
-
 library(viridis)
-
 
 # read in bulk RNA-seq data ------------------------------------------------
 
