@@ -1,4 +1,4 @@
-# neuroblastoma_differentiation_response_heterogenity_transcriptomic_analyses
+# neuroblastoma differentiation response heterogenity transcriptomic analyses
 
 This repository contains code to generate the figures in Figure 1 of the manuscript: Neuroblastoma cell lines display heterogeneity in differentiation responses (Wellcome Open Research, 2024)
 
